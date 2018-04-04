@@ -16,7 +16,7 @@ The text and videos that accompany this course are licensed as follows:
 * NonCommercial — You may not use the material for commercial purposes. This includes adding advertising to the material.
 * NoDerivatives — If you remix, transform, or build upon the material, you may not distribute the modified material. 
 
-I reserve the right to revoke this license on anyone at any time without any reason.  This is to  protect against changes in law or technology that the above license couldn't anticipate.
+I reserve the right to revoke this license on anyone at any time for any reason without any explanation.  This is to  protect against changes in law or technology that the above license couldn't anticipate.
 
 The photographic resources included in the book are intended to be used for your artistic study and expression.  Therefore the photos are licensed `CC BY-NC <https://creativecommons.org/licenses/by-nc/4.0/>`_ which means:
 
