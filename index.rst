@@ -9,9 +9,9 @@ Learn Painting The Hard Way
 * Exercise 05: Drawing Like a Painter <ex05-drawing-like-a-painter/index.html>
 * Exercise 06: Applying Pastels <ex06-applying-pastels/index.html>
 * Exercise 07: Lighting Subjects <ex07-lighting-subjects/index.html>
-* Exercise 08: A Cube in  <ex08-a-cube-in/index.html>
-* Exercise 09: A Cube in  <ex09-a-cube-in/index.html>
-* Exercise 10: A Pyramid in  <ex10-a-pyramid-in/index.html>
+* Exercise 08: A Cube in 3 Values <ex08-a-cube-in-3-values/index.html>
+* Exercise 09: A Cube in 5 Values <ex09-a-cube-in-5-values/index.html>
+* Exercise 10: A Pyramid in 3 and 5 Values <ex10-a-pyramid-in-3-and-5-values/index.html>
 * Exercise 11: A Sphere With Blending <ex11-a-sphere-with-blending/index.html>
 * Exercise 12: Multiple Simple Shapes <ex12-multiple-simple-shapes/index.html>
 * Exercise 13: A Bowl <ex13-a-bowl/index.html>

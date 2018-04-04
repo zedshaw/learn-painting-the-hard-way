@@ -2,7 +2,7 @@ import os
 from slugify import slugify
 import re
 
-regex = re.compile(r"\* ([0-9][0-9]): ([A-Za-z, ]+)(\-\- )?(.*$)?")
+regex = re.compile(r"\* ([0-9][0-9]): ([A-Za-z0-9, ]+)(\-\- )?(.*$)?")
 
 outline = (x.strip() for x in open("outline.txt").readlines())
 exercises = (regex.match(x).groups() for x in outline if x.startswith("*"))
