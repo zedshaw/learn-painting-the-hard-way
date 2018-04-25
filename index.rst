@@ -78,7 +78,7 @@ Nothing in this course is revolutionary or new.  Most of these exercises and tec
 * `Exercise 04: Overview of Drawing Strategies <ex04-overview-of-drawing-strategies/index.html>`_
 * `Exercise 05: Drawing Like a Painter <ex05-drawing-like-a-painter/index.html>`_
 * `Exercise 06: Applying Pastels <ex06-applying-pastels/index.html>`_
-* `Exercise 07: Lighting Subjects <ex07-lighting-subjects/index.html>`_
+* `Exercise 07: The Second Statement <ex07-the-second-statement/index.html>`_
 
 ------------------------
 Simple Monochrome Shapes
