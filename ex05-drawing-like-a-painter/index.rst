@@ -3,7 +3,7 @@ Exercise 05: Drawing Like a Painter
 
 You have seen short quick little demonstrations of the major styles of drawing, so now let's do your first attempt at the painterly style you'll use in this book.  We'll use our friend the cube:
 
-.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/thumb/cube_gray_on_black.JPG
+.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/small/cube_gray_on_black.JPG
     :target: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG
 
 If you remember from Exercise 04 the painterly style is this:
