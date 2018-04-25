@@ -21,7 +21,7 @@ Exercise Assignment
 
 Your only challenge in this exercise is to make sure you can access the larger version of this photo:
 
-.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/small/cube_gray_on_black.JPG
+.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/thumb/cube_gray_on_black.JPG
     :target: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG
 
 If you can click on the image and get the larger version of it then you are ready to continue.  You should also try to right-click on it and "Save As..." so that you can save the image to your computer for later.
