@@ -45,6 +45,7 @@ That means, you need the following things to get started with this course:
 
 4. A roll of tape.  Just a roll of regular masking tape from a office supply store will work.
 5. A bottle of 95% or 99% rubbing alcohol.  The bottle should say "isopropyl alcohol" and you should get the highest you can.  Usually you can find 95% at any pharmacy or super market.  99% seems to be harder to get, but I purchased some online.
+6. A really terrible soft 1/2" brush.  You can usually get one used for painting from a hardware store or any art store.  Synthetic watercolor brushes work well, but any terrible brush you don't care about will work.
 
 That should be it, and depending on where you get this it should be around $20-40 in cost.  If you team up with a friend you can cut that in half since the box of pastels I recommend has two stick for each color.
 
