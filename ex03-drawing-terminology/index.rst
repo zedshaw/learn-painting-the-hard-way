@@ -49,6 +49,11 @@ Take a very close look at the top of this cube.  Now, there's a corner of this t
 
 That blurry out of focus corner in the back looks out of focus because of how it "connects" to the other two shapes and the background.  Where two or more shapes connect is called an "edge", and the sharpness or softness of an edge determines it's focus *or* its connection to another shape.  For example, inside each of the three sides of the cube there are actually subtle shapes that are connected with very soft edges.  You might not be able to see them yet, but you'll learn how as you practice.
 
+Ground
+------
+
+This is the name used for the surface you are painting or drawing on.  This can be a piece of paper, canvas, glass, metal, or any flat surface.  It can also be the word used for the background of an object in a picture.  In this photo the cube is surrounded by black, and that black is the ground for the cube.
+
 Correct
 -------
 
