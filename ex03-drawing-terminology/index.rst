@@ -57,7 +57,7 @@ Like many things in art "correct" is relative.  I've seen top accomplished portr
 There's also a strange phenomenon in drawing where you work on a drawing for hours and think, "Yes! I did it! This is perfect!"  Then your friend walks by and points at some random part and says, "What about that?"  Suddenly you see all the obvious errors in your drawing and it's definitely not perfect.  I have no idea why this happens, but you'll learn how to use tricks to help you see your own errors as you work while also just accepting your mistakes as part of your art style.
 
 
+Exercise Assignment
+-------------------
 
-
-
-
+Your assignment is to study this photo and look for all of these terms.  You should also watch the video for this exercise to see a *visual* demonstration of each term.  Finally, you should make little flash cards with these words and try to remember what they mean.  The good news is this is probably all the terms you need for the first half of the book.
