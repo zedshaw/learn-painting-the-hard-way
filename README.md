@@ -13,3 +13,8 @@ features:
 footer: Copyright © 2018-present Zed A. Shaw
 ---
 
+<h1 style="text-align: center">You Can Learn To Enjoy Painting</h1>
+
+This site is intended for everyone to learn to paint for free.  I've designed it to be gradual to allow you to take your time.  You don't have to do any of this *right*, you just have to try it.  Just keep doing it, enjoy yourself, and you'll learn to paint.  
+
+

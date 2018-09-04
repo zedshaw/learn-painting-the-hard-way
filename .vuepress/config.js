@@ -5,8 +5,8 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/sub/' },
-      { text: 'TV', link: 'https://tv.zedshaw.com' },
+      { text: 'Guide', link: '/toc.html' },
+      { text: 'TV', link: 'https://tv.learnartthehardway.com' },
     ]
   },
 }
