@@ -3,8 +3,7 @@ Exercise 03: Drawing Terminology
 
 Let's look at this image of a cube again and talk about drawing:
 
-.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/small/cube_gray_on_black.JPG
-    :target: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG
+[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
 
 There is a video that goes with this exercise. After you read what I have to say you should watch the video.  It is generally easier to understand painting ideas from a video.
 

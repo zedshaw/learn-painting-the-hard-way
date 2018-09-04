@@ -13,7 +13,7 @@ But, you aren't expected to *copy* these photos exactly.  You can try, but you'r
 
 Finally, some people will tell you to not use photos to learn to paint.  You should know that almost every major accomplished artist learned to paint and/or draw from either photos or something that looked exactly like a photo.  Famous painters like Richard Schmid use photos and paint from computer monitors, and if they do it then you can do it.  Anyone trying to shame you into thinking that "real artists" don't use photos is lying.
 
-I'll also say that rejecting photos as being too "technological" ignores the history of photography.  Photography was invented in `1816 by Nicéphore Niépce <https://en.wikipedia.org/wiki/History_of_photography#1816_to_1833:_Niépce's_earliest_fixed_images>`_ which makes the photo 202 years old, and potentially older if you consider earlier attempts in the 1700s.  Now, if someone is telling you that is too "new" to use, then they shoulds top using tin tubes to store their paint and nearly every pigment they use.  Tin tubes were invented in `1841 by John Rand <https://en.wikipedia.org/wiki/John_Goffe_Rand>`_ and Cadmium was invented in `1817 but only 1840 as a pigment <https://en.wikipedia.org/wiki/Cadmium>`_ as well as most of the pigments artists use.  If photography shouldn't be used then neither should all of the tools most painters use today.
+I'll also say that rejecting photos as being too "technological" ignores the history of photography.  Photography was invented in [1816 by Nicéphore Niépce](https://en.wikipedia.org/wiki/History_of_photography#1816_to_1833:_Niépce's_earliest_fixed_images) which makes the photo 202 years old, and potentially older if you consider earlier attempts in the 1700s.  Now, if someone is telling you that is too "new" to use, then they shoulds top using tin tubes to store their paint and nearly every pigment they use.  Tin tubes were invented in [1841 by John Rand](https://en.wikipedia.org/wiki/John_Goffe_Rand) and Cadmium was invented in [1817 but only 1840 as a pigment](https://en.wikipedia.org/wiki/Cadmium) as well as most of the pigments artists use.  If photography shouldn't be used then neither should all of the tools most painters use today.
 
 
 Exercise Assignment
@@ -21,8 +21,7 @@ Exercise Assignment
 
 Your only challenge in this exercise is to make sure you can access the larger version of this photo:
 
-.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/thumb/cube_gray_on_black.JPG
-    :target: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG
+[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
 
 If you can click on the image and get the larger version of it then you are ready to continue.  You should also try to right-click on it and "Save As..." so that you can save the image to your computer for later.
 

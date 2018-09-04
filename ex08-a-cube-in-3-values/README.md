@@ -5,8 +5,7 @@ Wasn't that cube so exciting?  You may be wondering why we're doing such simple 
 
 We will now work on a new cube:
 
-.. image:: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/small/cube_white_on_white.JPG
-    :target: https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_white_on_white.JPG
+[![White cube on white](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_white_on_white.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_white_on_white.JPG)
 
 Don't get scared now.  I know the last cube was easy because it was all black and then clear light grays for the cube.  *This* cube is a white cube on a white background, so it is more complex but not really.  Take the time to study this new cube and you might find:
 

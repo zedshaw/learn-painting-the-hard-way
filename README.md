@@ -2,7 +2,7 @@
 home: true
 heroImage: /hero.jpg
 actionText: Get Started →
-actionLink: /pastels/
+actionLink: toc.md
 features:
 - title: Easy To Follow
   details: The course is designed to teach you painting in small, gradual, logical steps.
@@ -12,6 +12,4 @@ features:
   details: The course is free for everyone to learn painting and the love of making art.
 footer: Copyright © 2018-present Zed A. Shaw
 ---
-
-
 

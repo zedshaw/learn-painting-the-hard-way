@@ -13,6 +13,6 @@ You also may go through this course, or part of it, and just find it's incredibl
 
 Finally, I'm not writing this course to change the minds of people or push any kind of agenda or belief system on you.  All I'm doing is teaching you the basics of painting, and what you do with that is up to you.  I won't fill this book with psychobabel, religion, secret coded messages, politics, or anything but how to paint.
 
-With all that said, if you feel this course is for you then continue on to `Exercise 00 <ex00-gearing-up/index.html>`_ .  If you think it's not for you then great.  I won't be offended if you decide not to use it.
+With all that said, if you feel this course is for you then continue on to [Exercise 00](ex00-gearing-up/) .  If you think it's not for you then great.  I won't be offended if you decide not to use it.
 
 

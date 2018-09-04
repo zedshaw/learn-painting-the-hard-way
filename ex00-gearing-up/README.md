@@ -28,19 +28,19 @@ Finally, you can take your pastels and melt them with rubbing alcohol or water t
 
 That means, you need the following things to get started with this course:
 
-1. A box of gray pastels.  I recommend the `Mungyo Gallery Semi-hard Gray set of 12 <http://www.jerrysartarama.com/mungyo-gallery-semi-hard-pastel-sets>`_ pastels.  You can get them from almost anywhere, and they're very inexpensive.  A box of 12 will cost you about $11USD.  If you can't find those, then just get 4 sticks of grays that go from light to dark, then get a white and a totally black stick.  It can be any brand, but softer is probably better than harder.
+1. A box of gray pastels.  I recommend the [Mungyo Gallery Semi-hard Gray set of 12](http://www.jerrysartarama.com/mungyo-gallery-semi-hard-pastel-sets) pastels.  You can get them from almost anywhere, and they're very inexpensive.  A box of 12 will cost you about $11USD.  If you can't find those, then just get 4 sticks of grays that go from light to dark, then get a white and a totally black stick.  It can be any brand, but softer is probably better than harder.
 2. A pad of pastel paper, size 9" by 12" or close to that.  If you have a good sanded paper you can actually use really terrible pastels and do great work.  So, if you can afford it get the UART or Sennelier paper.  If you can't then just get the Mi-Teintes or the Borden and Reiley.  I'll be using all of these in the course so you can see how they work. I recommend any of these:
 
-   * `Canson Mi-Teintes Gray Tones <http://www.jerrysartarama.com/canson-mi-teintes-pads>`_
-   * `UART Sanded Paper <http://www.jerrysartarama.com/uart-pastel-paper>`_
-   * `Pastelmat <http://www.jerrysartarama.com/pastelmat>`_
-   * `Sennelier La Carte Pastel Pads <http://www.jerrysartarama.com/sennelier-la-carte-pastel-paper-pads>`_
-   * `Borden and Riley Pastel Paper <http://www.bordenandriley.com/View/410-CharcoalPastel-Paper-Portrait-Grey-Cloth-Bound-Pads>`_
+   * [Canson Mi-Teintes Gray Tones](http://www.jerrysartarama.com/canson-mi-teintes-pads)
+   * [UART Sanded Paper](http://www.jerrysartarama.com/uart-pastel-paper)
+   * [Pastelmat](http://www.jerrysartarama.com/pastelmat)
+   * [Sennelier La Carte Pastel Pads](http://www.jerrysartarama.com/sennelier-la-carte-pastel-paper-pads)
+   * [Borden and Riley Pastel Paper](http://www.bordenandriley.com/View/410-CharcoalPastel-Paper-Portrait-Grey-Cloth-Bound-Pads)
 
 3. A board for the paper. You can use a big piece of stiff cardboard or any wood board you have lying around.  It just has to be rigid enough to keep the paper stiff.  If you want a nicer board then you can use a drawing board or a piece of gatorboard.  I also like a simple painting panel too.  Here's a decent list if you want to buy something:
 
-   * `Gatorfoam Board <https://www.dickblick.com/products/gatorfoam-board/>`_
-   * `Ampersand Panel <http://www.jerrysartarama.com/ampersand-value-panels-smooth-finish>`_
+   * [Gatorfoam Board](https://www.dickblick.com/products/gatorfoam-board/)
+   * [Ampersand Panel](http://www.jerrysartarama.com/ampersand-value-panels-smooth-finish)
    * Really anything will work.  Don't spend a ton of money on this, and get a board that's bigger than your paper.  So if you have a 9x12 paper you should get an 11x14 board or bigger.
 
 4. A roll of tape.  Just a roll of regular masking tape from a office supply store will work.
