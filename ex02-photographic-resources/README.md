@@ -17,7 +17,7 @@ I'll also say that rejecting photos as being too "technological" ignores the his
 
 
 Exercise Assignment
-===================
+---
 
 Your only challenge in this exercise is to make sure you can access the larger version of this photo:
 

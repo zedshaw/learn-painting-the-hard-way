@@ -5,7 +5,7 @@ module.exports = {
     sidebar: 'auto',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Pastels', link: '/toc.html' },
+      { text: 'TOC', link: '/toc.html' },
       { text: 'Forum', link: 'https://forum.learnartthehardway.com' },
       { text: 'TV', link: 'https://tv.learnartthehardway.com' },
     ]
