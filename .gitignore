@@ -2,3 +2,4 @@
 .cache
 *.pyc
 __pycache__
+.vuepress/dist
