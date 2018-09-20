@@ -65,3 +65,10 @@ Exercise Assignment
 -------------------
 
 Your assignment is to study this photo and look for all of these terms.  You should also watch the video for this exercise to see a *visual* demonstration of each term.  Finally, you should make little flash cards with these words and try to remember what they mean.  The good news is this is probably all the terms you need for the first half of the book.
+
+Video
+-----
+
+This video is garbage and it's only here to test embedding videos.
+
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts" src="https://tv.learnartthehardway.com/videos/embed/6d79c883-a6ed-4bcb-80f7-ca8c2feda7ee" frameborder="0" allowfullscreen></iframe>
