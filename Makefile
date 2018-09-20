@@ -4,4 +4,4 @@ dev:
 
 site:
 	vuepress build
-	rsync -azv .vuepress/dist/* ${USER}@learnartthehardway.com:/var/www/learnartthehardway.com/
+	rsync --delete -azv .vuepress/dist/* ${USER}@learnartthehardway.com:/var/www/learnartthehardway.com/
