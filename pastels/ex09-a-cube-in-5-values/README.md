@@ -1,22 +1,21 @@
 Exercise 09: A Cube in 5 Values
 ===============================
 
-Continuing with the same cube:
+You now have the full painting process you'll use for the rest of the book:
 
-[![White cube on white](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_white_on_white.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_white_on_white.JPG)
-
-Your simple 3 value cube most likely looks like "a cube", but it might not look exactly like this cube.  This cube is complicated because it has many subtle shifts in values inside each shape.  You can't quite capture this effect with only 3 values, so in this exercise you'll do a 3rd statement using 5 values. 
-
-You can do quite a lot with only 3 values, but to make a realistic looking painting you'll need anywhere from 5 to 7 values and probably blending.  I'll say again that this obsession with "accuracy" is really only useful when you're learning to paint.  You improve your visual comprehension and sensitivity by trying to be very accurate.  Then when you start to do your own art this training helps you paint how you want but still maintain control and match the painting to your idea.
-
-It's best to think of this as a game of getting as close as you can before you give up in frustration.  Keep trying, then slowly you'll get better at both accuracy and concentration.  You should also realize that it's completely fine for a painting to be "close" and paintings that are on the edge of realistic re usually better than ones that look exactly like a photo.
+1. Do a painterly drawing using 3 values that's your first statement, getting fairly close to accurate, but don't worry if it's not.
+2. Melt the pastels with alcohol to obliterate some of the drawing that you know you have to correct anyway, adjust edges, and fix the pastel to the paper.
+3. Do your second statement using 5 values with no blending.  You correct mistakes and divide big shapes into 2-3 sub-shapes.
+4. Do your third statement using 5 values and blending to finish the painting, dividing shapes into as small sub-shapes as possible.
+5. Throw it in the garbage unless you really truly deeply love it.
 
 Exercise Assignment
 -------------------
 
-You are free to use multiple sticks but *do not blend*.   It's hard to not blend pastels because they look so great when you do, but resist the temptation.  You may even see me do it a few times even though I'm trying not to blend.
+You will now do the complete process again using this new cube:
 
-You should start first by dividing each shape into "lighter" and "darker" valued sub-shapes, and then paint it as best you can without blending.  As usual, watch the video to see how I do it since watching others paint is an easier way to learn.
+[![White cube on white](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_white_on_white.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_white_on_white.JPG)
+
 
 Are You Bored?
 --------------

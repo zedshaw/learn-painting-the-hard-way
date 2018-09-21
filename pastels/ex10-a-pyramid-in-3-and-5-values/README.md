@@ -17,8 +17,8 @@ You're building a process for painting what you see and in this painting you're 
 1. Do a basic quick first statement "guess" using 3 values.  You can do this using any drawing style I showed you.
 2. Melt the pastels so you can work on the first statement again.
 3. Do a second statement, correcting what you see is different from the photo, and still using 3 values.
-4. Do a 3rd statement using 5 values.
+4. Do a 3rd statement using 5 values and see if you can do almost no blending.
 
-In the next exercise you'll learn to blend the pastels to make the edges softer, but you should be able to see how *not* blending the edges still works.  Many times in a painterly style you'll leave the bits of color you place alone so that they look striking or interesting.  You also many times don't need to blend if you have enough values to work with while you're painting.  In oil painting and watercolor you have a nearly infinite gradation of values from light to dark.  In pastels you have a very fixed set of values in each of the 5 sticks, so blending is necessary to get soft edges.  But, this exercise should show you that you don't need to (and probably shouldn't) blend all the time.
+Many times in a painterly style you'll leave the bits of color you place alone so that they look striking or interesting.  You also many times don't need to blend if you have enough values to work with while you're painting.  In oil painting and watercolor you have a nearly infinite gradation of values from light to dark.  In pastels you have a very fixed set of values in each of the 5 sticks, so blending is necessary to get soft edges.  But, this exercise should show you that you don't need to (and probably shouldn't) blend all the time.
 
 

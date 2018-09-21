@@ -73,13 +73,13 @@ Nothing in this course is revolutionary or new.  Most of these exercises and tec
 * [Exercise 05: Drawing Like a Painter](ex05-drawing-like-a-painter/)
 * [Exercise 06: Applying Pastels](ex06-applying-pastels/)
 * [Exercise 07: The Second Statement](ex07-the-second-statement/)
+* [Exercise 08: The Third Statement](ex08-a-cube-in-3-values/)
 
 Simple Monochrome Shapes
 ------------------------
 
 The first exercises are all about learning how to render very simple shapes in 3 or 5 values.  I am using a collection of simple foam blocks I bought online to practice.  You don't have to buy them, as I've taken photos for you to use instead.  If you want an extra challenge then you can buy the foam blocks and also paint from them.  The videos that accompany this section will go very slow in the most boring way possible so that you can see exactly how I'm doing what I do.  This section is more about getting used to working with pastels than learning to draw little cubes.
 
-* [Exercise 08: A Cube in 3 Values](ex08-a-cube-in-3-values/)
 * [Exercise 09: A Cube in 5 Values](ex09-a-cube-in-5-values/)
 * [Exercise 10: A Pyramid in 3 and 5 Values](ex10-a-pyramid-in-3-and-5-values/)
 * [Exercise 11: A Sphere With Blending](ex11-a-sphere-with-blending/)

@@ -1,9 +1,6 @@
 Exercise 06: Applying Pastels
 =============================
 
-Continuing with the same photo:
-
-[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
 
 You hopefully stopped after your first statement of the cube from exercise 5.  You need to have only 4 basic shapes done and it doesn't matter if they're a little wrong.  You'll actually learn how to melt the pastel into your paper so that you can do your next statement on the top without difficulty.
 
@@ -19,6 +16,10 @@ You should wait for about 10-20 minutes to let your painting totally dry after d
 
 Exercise Assignment
 -------------------
+
+You will complete this exercise by continuing with the same photo and your painting from the last exercise.
+
+[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
 
 As before you should watch me do this on the video just to be sure you know what I'm talking about.  You may also want to try water to see how it compares to alcohol.  You may find that water works, but it warps the paper and the pastel doesn't really melt too well.
 
