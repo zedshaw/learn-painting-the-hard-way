@@ -1,6 +1,10 @@
 Exercise 06: Applying Pastels
 =============================
 
+Continuing with the same photo:
+
+[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
+
 You hopefully stopped after your first statement of the cube from exercise 5.  You need to have only 4 basic shapes done and it doesn't matter if they're a little wrong.  You'll actually learn how to melt the pastel into your paper so that you can do your next statement on the top without difficulty.
 
 1. What you need to do is take the isopropyl alcohol (rubbing alcohol) you bought and put a *tiny* amount into a small cup.  You don't need much.

@@ -1,6 +1,10 @@
 Exercise 07: The Second Statement
 =================================
 
+One more time with this cube:
+
+[![Gray cube on black](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/tiny/cube_gray_on_black.JPG)](https://s3.amazonaws.com/photos.learnartthehardway.com/basic_shapes/large/cube_gray_on_black.JPG)
+
 Your pastel painting from Exercise 06 should be melted and dry.  You actually don't *have* to melt your pastels and can just do this exercise anyway.  When you only do two layers of pastels you have enough texture to make the pastel stick.  It's when you get to the 3rd and 4th layer of pastels where you run into trouble.  As you layer on more pastel you can't stick more and you knock off other layers.  The alcohol causes that first layer of pastel to not count against you and also act as a rough sandpaper for later layers.
 
 Now you can do your second statement of the pastel painting.  In this step you are using your pastel to refine and correct your previous statement.  What you do is basically the steps from Exercise 05, but you're doing it *inside* the shapes you did in your first statement.

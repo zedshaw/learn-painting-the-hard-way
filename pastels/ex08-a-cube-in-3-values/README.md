@@ -47,5 +47,7 @@ Exercise Assignment
 
 In the video I show you how to narrow your focus down so you can more easily compare values.  Be sure you watch that demonstration, and also the demo for how I do this cube with only three value of pastel.
 
-Then, I want you to approach this study a little differently than the last study.  Instead of simply copying the photo I want you to *copy my pastel*.  You can use the photo and my pastel to help you figure out how I did it and to make as close a copy of what I did as you can.  Think like you're trying to a forgery so that nobody can tell your version from mine.
+You will do only 2 statements with this cube, and only use 3 values to do it.  You'll put down a guess for each big shape using 1 value each, then melt it with the alcohol, and finally to a more correct 2nd statement but still only using 3 values.
+
+You can *also* attempt to follow along with me and copy my pastel.  Copying someone else's painting is a very good way to learn how to paint.
 
