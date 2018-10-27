@@ -57,7 +57,7 @@ This course is written in a way that makes it possible for people with various l
 Pastels
 -------
 
-I chose pastels for this course because they are cheap, work really well, work like other painting mediums, and are generally the safest and easiest to use.  If you learn to use pastels then it's fairly easy to transition into oil paints, charcoal, pencils, and acrylic.  Watercolor is a whole other beast but the things you learn with pastels will apply.  In this section I describe the things you need to get for the first section, how to be safe with them, and how to get the photos I've taken for the course.  I also briefly talk about why I use photos, and some criticisms and limitations of using photos.
+I chose pastels for the first part of this course because they are cheap, work really well, work like other painting mediums, and are generally the safest and easiest to use.  If you learn to use pastels then it's fairly easy to transition into oil paints, charcoal, pencils, and acrylic.  Watercolor is a whole other beast but the things you learn with pastels will apply.  In this section I describe the things you need to get for the first section, how to be safe with them, and how to get the photos I've taken for the course.  I also briefly talk about why I use photos, and some criticisms and limitations of using photos.
 
 * [Exercise 00: Gearing Up](ex00-gearing-up/)
 * [Exercise 01: Safety Precautions](ex01-safety-precautions/)

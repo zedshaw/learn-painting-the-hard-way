@@ -33,7 +33,7 @@ Health Constraints
 
 A lot of people simply can't use oil paints because of health concerns. In this course I use the safest oil paints I can find which are water soluble and feature no dangerous pigments.  Most painting courses require you to use solvents and even advocate that you slather the paint all over your arms or you aren't a "real artist".  In this course I'll advocate for safety and help you avoid unnecessary exposure.
 
-Compared to oil paint pastels are much safer, but still not totally safe.  In the beginning there are not color pigments so the only risk is breathing the dust or irritating your skin.  I'll teach you how to avoid both, but if you have respiratory problems then I recommend waiting until I have the oil painting version of the course.
+Pastels are also safe to use, but still not totally safe. Nothing is totally safe, but pastels have very few risks.  In the beginning there are not color pigments so the only risk is breathing the dust or irritating your skin.  I'll teach you how to avoid both, but if you have respiratory problems then I recommend waiting until I have the oil painting version of the course.
 
 Finally, quite a few of the demos I do in the videos for the course will use digital painting.  If you really cannot handle any exposure to dust or solvents then you can simply do the whole course in digital and have no problems.  I will point you at some free digital painting tools, but the one I chose to use will cost about $50.
 
