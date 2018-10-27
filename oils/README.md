@@ -9,14 +9,12 @@ Copyright (C) 2018 By Zed A. Shaw. All rights reserved.  Refer to the [license](
 Dedication
 ----------
 
-This course is dedicated to Ana.  I took my first drawing class with her, and because of her encouragement I stuck with it.  Without her I would have never discovered painting and the happiness it gives me every day.
-
-I also dedicate this course to all the weird little kids who wanted to make art but were told that nerds, dorks, and logical people can't be creative.  I'm a programmer who writes courses teaching other people how to code and thinks Bob Ross is a genius.  It really does not get more nerd, dork, and logical than me.  So if I can paint, then you can too.
+The color section of this course is dedicated to Dennis Perrin and Arthur Stern.  Arthur's book "How To See Color and Paint It" was the first book that taught me painting with oil paint using a palette knife which fit the model of my programming books.  I definitely borrow ideas from Arthur in my own course.  Dennis Perrin was the first teacher I met who taught a simplified, logical, wet-in-wet style of painting that produced great results but wasn't a huge waste of time.  I learned so much from Dennis about what I feel is the soul of oil paint.  Dennis is also the master of the gray, who showed me how you can take a simplified palette and produce beautiful art from simplified gray beginnings.
 
 Color Painting with Oils
 ------------------------
 
-You now move into color using oil paints.  Pastels are fantastic to work with, and I'll briefly discuss how you can continue using them if you want.  However, doing the exercises in pastels requires buying a *huge* number of pastels and can cost almost $400 to $1700 depending on the brand of pastel you choose.  You'd also have to buy a large paint easel which is another $300 - $500.  Oil paints allow you to study color, mix exact colors you see, look great, and cost far less than a full set of pastels.  You can probably do all of these exercises with 4 big tubes of paint, 2 brushe, 1 knife, and cheap panels or paper.  Total cost is about $40 or maybe $80 at the most and will last you probably a year if you paint every day.  Oil paints also have the unique property that they can be matched exactly to what you see which helps you learn to see color better.
+You now move into color using oil paints.  Pastels are fantastic to work with, and I'll briefly discuss how you can continue using them if you want.  However, doing the exercises in pastels requires buying a *huge* number of pastels and can cost almost $400 to $1700 depending on the brand of pastel you choose.  You'd also have to buy a large paint easel which is another $300 - $500.  Oil paints allow you to study color, mix exact colors you see, look great, and cost far less than a full set of pastels.  You can probably do all of these exercises with 4 big tubes of paint, 2 brushes, 1 knife, and cheap panels or paper.  Total cost is about $40 or maybe $80 at the most and will last you probably a year if you paint every day.  Oil paints also have the unique property that they can be matched exactly to what you see which helps you learn to see color better.
 
 * [Exercise 31: Gearing Up for Color In Oils](ex31-gearing-up-for-color-in-oils/)
 * [Exercise 32: Color Terminology](ex32-color-terminology/)
