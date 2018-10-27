@@ -26,3 +26,7 @@ Come talk about your the exercises and your art at <a href="https://forum.learna
 
 Every exercise has the videos, but you can also see all of the videos and more at <a href="https://tv.learnartthehardway.com">tv.learnartthehardway.com</a>.
 
+<h1 style="text-align: center">License</h1>
+
+Everything is Copyright (C) 2018 by Zed A. Shaw. All rights reserved. You can read the [License](/license.html) to find out how you are allowed to use this work.
+
