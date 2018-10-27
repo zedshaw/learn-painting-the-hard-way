@@ -17,19 +17,21 @@ Physical Mobility
 
 In many classes students are expected to haul giant loads of paint, canvas, easels, and other equipment to rooms or fields and try to paint.  They're also expected to sit for hours staring at plaster statues in cabinets trying to paint perfect copies of what they see.  This simply isn't possible for many people with physical limitations.  In this course I only use photos for you to reference, and you can use them from a computer or even a terrible black and white printout from a laser printer.
 
-The materials I use are also lightweight and easy to use.  I chose pastels because they are very light, non toxic, easy to use, and very inexpensive.  In the beginning you only use a few gray sticks of pastel and some simple paper combined with maybe a board for the paper.  As you progress in the course I add color--which requires more sticks--but you don't have to use color if you're happy with black and white.
+The materials I use are also lightweight and easy to use.  I chose pastels because they are very light, non toxic, easy to use, and very inexpensive.  In the beginning you only use a few gray sticks of pastel and some simple paper combined with maybe a board for the paper.  Doing the monochrome studies in pastels is the easiest and cheapest way for people to begin.
+
+Then the second half of the course switches to oil paints to explore color.  I chose oil paint for the color lessions because it is the easiest and cheapest way to learn to exactly render color you see.  Pastels would be easier to *use*, but purchasing a full color palette would cost $400 USD or more.  With oils you can spend about $50 USD and have enough oil paint to last you a year or more.
 
 Economic Constraints
 ====================
 
-Not everyone can spend $300 or more on painting equipment, but many classes will list out paints and supplies that cost that much or more.  If you add easels, canvases, palettes, brushes, knives, and all the gear you can spend $1000 in your first month of learning to paint.  In this course I use pastels because you can get all the materials you need to start for about $20.  Even if you go nuts and get the better paper and all the colors you still will only spend about $80 total.  This will then last you a few months or more depending on how often you paint.
+Not everyone can spend $300 or more on painting equipment, but many classes will list out paints and supplies that cost that much or more.  If you add easels, canvases, palettes, brushes, knives, and all the gear you can spend $1000 in your first month of learning to paint.  In this course I use pastels and oils because you can get all the materials you need to start for about $20.  Even if you go nuts and get the better materials you still will only spend around $100 USD, and could go even lower if you follow my guides.  This will then last you a few months or more depending on how often you paint.
 
 Classes are another cost when trying to learn to paint. Most art classes can cost $400 for just 4 days of a workshop, which also requires taking time off from work that adds another cost.  Art universities can cost $180,000 a year to attend.  For many people this is a large barrier to entry so I've made this course free.
 
 Health Constraints
 ==================
 
-A lot of people simply can't use oil paints because of health concerns.  I will update the course to add oil painting, but when I do I'll use a version of oil paint that is a safe as possible.  Most painting course require you to use solvents and even advocate that you slather the paint all over your arms or you aren't a "real artist".  In this course I'll advocate for safety and help you avoid unnecessary exposure.
+A lot of people simply can't use oil paints because of health concerns. In this course I use the safest oil paints I can find which are water soluble and feature no dangerous pigments.  Most painting courses require you to use solvents and even advocate that you slather the paint all over your arms or you aren't a "real artist".  In this course I'll advocate for safety and help you avoid unnecessary exposure.
 
 Compared to oil paint pastels are much safer, but still not totally safe.  In the beginning there are not color pigments so the only risk is breathing the dust or irritating your skin.  I'll teach you how to avoid both, but if you have respiratory problems then I recommend waiting until I have the oil painting version of the course.
 

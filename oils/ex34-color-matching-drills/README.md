@@ -1,2 +1,2 @@
-Exercise 45: Pieces of Color Paper
+Exercise 34: Color Matching Drills
 ==================================

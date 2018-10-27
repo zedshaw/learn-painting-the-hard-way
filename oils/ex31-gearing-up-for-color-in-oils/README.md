@@ -1,2 +1,2 @@
-Exercise 41: My Blue Guitar Deconstructed
+Exercise 31: Gearing Up for Color in Oils
 =========================================
