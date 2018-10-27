@@ -9,7 +9,9 @@ Copyright (C) 2018 By Zed A. Shaw. All rights reserved.  Refer to the [license](
 Dedication
 ----------
 
-The color section of this course is dedicated to Dennis Perrin and Arthur Stern.  Arthur's book "How To See Color and Paint It" was the first book that taught me painting with oil paint using a palette knife which fit the model of my programming books.  I definitely borrow ideas from Arthur in my own course.  Dennis Perrin was the first teacher I met who taught a simplified, logical, wet-in-wet style of painting that produced great results but wasn't a huge waste of time.  I learned so much from Dennis about what I feel is the soul of oil paint.  Dennis is also the master of the gray, who showed me how you can take a simplified palette and produce beautiful art from simplified gray beginnings.
+The color section of this course is dedicated to Dennis Perrin and Arthur Stern.  Arthur's book *"How To See Color and Paint It"* was the first book that taught me painting with oil paint using a palette knife.  His book was the only book that approached the subject in the same way as my programming books.  I definitely borrow ideas from Arthur in this course.  
+
+Dennis Perrin was the first teacher I met who taught a simplified, logical, wet-in-wet style of painting that produced great results but wasn't a huge waste of time.  I learned so much from Dennis about what I feel is the soul of oil paint.  Dennis is also the master of the gray, who showed me how you can take a simplified palette and produce beautiful art from simplified gray beginnings.
 
 Color Painting with Oils
 ------------------------
