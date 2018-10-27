@@ -119,8 +119,8 @@ Monochrome Advanced Studies
 The final projects in the monochrome painting phase of study are meant to be advanced topics to give you a final push in your learning.  You'll attempt an interior, which just means your bedroom, a kitchen, a bathroom, etc.  You'll then attempt a portrait of an old lady plaster cast, and one of a young girl.  Your goal with these studies is not to be overly accurate, but to get as close as you can.  With the casts you most likely won't be able to get them, so I've provided many photos of them from various angles.  After this, you should do as much monochrome painting as you possibly can as you continue on with the course.
 
 * [Exercise 28: An Interior](ex28-an-interior/)
-* [Exercise 29: An Old Lady Cast](ex29-an-old-lady-cast/)
-* [Exercise 30: A Young Girl Cast](ex30-a-young-girl-cast/)
+* [Exercise 29: Food](ex29-food/)
+* [Exercise 30: A Landscape](ex30-a-landscape/)
 
 
 Color
