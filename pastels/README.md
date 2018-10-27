@@ -123,58 +123,7 @@ The final projects in the monochrome painting phase of study are meant to be adv
 * [Exercise 30: A Young Girl Cast](ex30-a-young-girl-cast/)
 
 
-Introducing Color
------------------
+Color
+-----
 
-You now move into using color, which in pastels is both very easy, and kind of difficult.  What makes color in pastels easy is there's no mixing or guessing.  You just pick up the color and use it.  What makes pastels difficult is there's no mixing, so if you don't have a stick for a color you see then you have to "interpret" the color and try to get close.  In this section you'll find out what pastels to get, learn about terminology, and learn a few techniques that makes using color pastels easier.
-
-* [Exercise 31: Gearing Up for Color Pastels](ex31-gearing-up-for-color-pastels/)
-* [Exercise 32: Color Terminology](ex32-color-terminology/)
-* [Exercise 33: Color and Pastels](ex33-color-and-pastels/)
-* [Exercise 34: Applying Color with Pastels](ex34-applying-color-with-pastels/)
-* [Exercise 35: Blending Color Pastels](ex35-blending-color-pastels/)
-* [Exercise 36: Lighting and Setup for Color Study](ex36-lighting-and-setup-for-color-study/)
-
-
-Color Still Life Studies
-------------------------
-
-You then start at the beginning and do your original still life studies but using color instead of monochrome.  You will learn to select your set of colors before you start, get a basic drawing down in an "under painting", and then render the color as best you can.
-
-* [Exercise 37: Oranges and Apples](ex37-oranges-and-apples/)
-* [Exercise 38: Sea Shells](ex38-sea-shells/)
-* [Exercise 39: Still Life of Oranges, Apples and Seashells](ex39-still-life-of-oranges-apples-and-seashells/)
-* [Exercise 40: Celery and Onions](ex40-celery-and-onions/)
-* [Exercise 41: My Blue Guitar Deconstructed](ex41-my-blue-guitar-deconstructed/)
-
-Color Texture Studies
----------------------
-
-You then move on to studying textures again, but with color this becomes much easier.  In fact, your goal in this section is to try not to do too much in your attempt to create the effect of each texture.  With pastels you could slave over each subject and render out every tiny hair on a teddy bear, but that's not the point.  The point is to do more with less.  Don't assume that your viewer is an idiot and leave something for them to ponder.
-
-* [Exercise 42: A Brown Paper Bag](ex42-a-brown-paper-bag/)
-* [Exercise 43: Teddy Bear](ex43-teddy-bear/)
-* [Exercise 44: My Little Paint Box](ex44-my-little-paint-box/)
-* [Exercise 45: Pieces of Color Paper](ex45-pieces-of-color-paper/)
-* [Exercise 46: A Plastic Jug of Water](ex46-a-plastic-jug-of-water/)
-* [Exercise 47: A Glass of Water on Color Paper](ex47-a-glass-of-water-on-color-paper/)
-
-Color Advanced Studies
-----------------------
-
-You now get into the fun final projects that are entire genres of painting all on their own.  I will go through these final projects, and also provide you with lists of other books that will help you learn more about them if you want to dive deep into them.  I will also include many landscapes by myself and other artists which you can copy.  Copying other artists is a very solid way to learn how to paint and get better.
-
-* [Exercise 48: A Landscape](ex48-a-landscape/)
-* [Exercise 49: An Interior](ex49-an-interior/)
-* [Exercise 50: A Self-portrait](ex50-a-self/)
-* [Exercise 51: A Fish](ex51-a-fish/)
-
-The End?
---------
-
-In the end I'll lay out ideas for more pastel subjects, talk to you about oils and watercolor, and then give you some final words of advice on making art for your own enjoyment.
-
-* [Exercise 52: Advanced Pastel Explorations](ex52-advanced-pastel-explorations/)
-* [Exercise 53: Other Media](ex53-other-media/)
-* [Exercise 54: Caring for Yourself in Art](ex54-caring-for-yourself-in-art/)
-
+You are now ready to study color at [/oils/](/oils/).
